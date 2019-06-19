@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Johnson CV July 2016.aux
+The style file: apalike.bst
+Database file #1: noelref.bib
+I was expecting a `,' or a `}'---line 15304 of file noelref.bib
+ :  Pages = 83
+ :            --96,
+I'm skipping whatever remains of this entry
+Warning--empty note in DudleyJohnson16
+Warning--empty note in FinleyEtAl15
+Warning--empty note in JedwabEtAl15
+Warning--empty note in JohnsonRoL13
+Warning--empty note in JohnsonRapoportWeiss2018
+You've used 36 entries,
+            1935 wiz_defined-function locations,
+            680 strings with 9560 characters,
+and the built_in function-call counts, 13225 in all, are:
+= -- 1276
+> -- 486
+< -- 25
++ -- 164
+- -- 152
+* -- 1119
+:= -- 2352
+add.period$ -- 106
+call.type$ -- 36
+change.case$ -- 251
+chr.to.int$ -- 30
+cite$ -- 41
+duplicate$ -- 484
+empty$ -- 971
+format.name$ -- 214
+if$ -- 2575
+int.to.chr$ -- 7
+int.to.str$ -- 0
+missing$ -- 32
+newline$ -- 178
+num.names$ -- 114
+pop$ -- 195
+preamble$ -- 1
+purify$ -- 252
+quote$ -- 0
+skip$ -- 369
+stack$ -- 0
+substring$ -- 1006
+swap$ -- 31
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 214
+warning$ -- 5
+while$ -- 91
+width$ -- 0
+write$ -- 448
+(There was 1 error message)
