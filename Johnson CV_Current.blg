@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: Johnson CV July 2016.aux
+The top-level auxiliary file: Johnson CV_Current.aux
 The style file: apalike.bst
 Database file #1: noelref.bib
 I was expecting a `,' or a `}'---line 15304 of file noelref.bib
@@ -14,7 +14,7 @@ Warning--empty note in JohnsonRoL13
 Warning--empty note in JohnsonRapoportWeiss2018
 You've used 36 entries,
             1935 wiz_defined-function locations,
-            680 strings with 9560 characters,
+            680 strings with 9556 characters,
 and the built_in function-call counts, 13225 in all, are:
 = -- 1276
 > -- 486
