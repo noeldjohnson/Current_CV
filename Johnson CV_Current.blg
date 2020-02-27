@@ -7,50 +7,49 @@ I was expecting a `,' or a `}'---line 15304 of file noelref.bib
  :  Pages = 83
  :            --96,
 I'm skipping whatever remains of this entry
-Warning--empty note in DudleyJohnson16
 Warning--empty note in FinleyEtAl15
 Warning--empty note in JedwabEtAl15
 Warning--empty note in JohnsonRoL13
 Warning--empty note in JohnsonRapoportWeiss2018
-You've used 36 entries,
+You've used 35 entries,
             1935 wiz_defined-function locations,
-            680 strings with 9556 characters,
-and the built_in function-call counts, 13225 in all, are:
-= -- 1276
-> -- 486
-< -- 25
-+ -- 164
-- -- 152
-* -- 1119
-:= -- 2352
-add.period$ -- 106
-call.type$ -- 36
-change.case$ -- 251
-chr.to.int$ -- 30
-cite$ -- 41
-duplicate$ -- 484
-empty$ -- 971
-format.name$ -- 214
-if$ -- 2575
+            677 strings with 9371 characters,
+and the built_in function-call counts, 12947 in all, are:
+= -- 1249
+> -- 473
+< -- 24
++ -- 160
+- -- 148
+* -- 1095
+:= -- 2297
+add.period$ -- 104
+call.type$ -- 35
+change.case$ -- 244
+chr.to.int$ -- 29
+cite$ -- 39
+duplicate$ -- 475
+empty$ -- 957
+format.name$ -- 207
+if$ -- 2526
 int.to.chr$ -- 7
 int.to.str$ -- 0
 missing$ -- 32
-newline$ -- 178
-num.names$ -- 114
-pop$ -- 195
+newline$ -- 174
+num.names$ -- 111
+pop$ -- 191
 preamble$ -- 1
-purify$ -- 252
+purify$ -- 245
 quote$ -- 0
-skip$ -- 369
+skip$ -- 360
 stack$ -- 0
-substring$ -- 1006
+substring$ -- 994
 swap$ -- 31
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 214
-warning$ -- 5
-while$ -- 91
+type$ -- 208
+warning$ -- 4
+while$ -- 89
 width$ -- 0
-write$ -- 448
+write$ -- 438
 (There was 1 error message)
