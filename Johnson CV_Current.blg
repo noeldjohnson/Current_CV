@@ -1,9 +1,9 @@
-This is BibTeX, Version 0.99d (TeX Live 2016)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=500000, hash_size=500000, hash_prime=425003
 The top-level auxiliary file: Johnson CV_Current.aux
 The style file: apalike.bst
 Database file #1: noelref.bib
-I was expecting a `,' or a `}'---line 15340 of file noelref.bib
+I was expecting a `,' or a `}'---line 15341 of file noelref.bib
  :  Pages = 83
  :            --96,
 I'm skipping whatever remains of this entry
@@ -12,25 +12,25 @@ Warning--empty note in JohnsonRoL13
 Warning--empty note in JohnsonRapoportWeiss2018
 You've used 37 entries,
             1935 wiz_defined-function locations,
-            689 strings with 9716 characters,
+            688 strings with 9685 characters,
 and the built_in function-call counts, 13724 in all, are:
 = -- 1325
 > -- 504
 < -- 25
-+ -- 173
++ -- 174
 - -- 158
 * -- 1158
 := -- 2432
 add.period$ -- 111
 call.type$ -- 37
 change.case$ -- 259
-chr.to.int$ -- 30
+chr.to.int$ -- 29
 cite$ -- 40
 duplicate$ -- 506
 empty$ -- 1013
 format.name$ -- 221
 if$ -- 2677
-int.to.chr$ -- 8
+int.to.chr$ -- 9
 int.to.str$ -- 0
 missing$ -- 35
 newline$ -- 185
@@ -39,7 +39,7 @@ pop$ -- 205
 preamble$ -- 1
 purify$ -- 260
 quote$ -- 0
-skip$ -- 382
+skip$ -- 381
 stack$ -- 0
 substring$ -- 1045
 swap$ -- 34
