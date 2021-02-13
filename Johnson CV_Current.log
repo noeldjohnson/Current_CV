@@ -1,15 +1,28 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  12 FEB 2021 14:22
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2020.4.29)  12 NOV 2020 14:17
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 entering extended mode
- restricted \write18 enabled.
- file:line:error style messages enabled.
- %&-line parsing enabled.
 **"Johnson CV_Current.tex"
+<<<<<<< HEAD
 (./Johnson CV_Current.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06>
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+=======
+(Johnson CV_Current.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/private/var/containers/Bundle/Application/98F9D6C9-E9B8-4AB7-BB7F-55F45E61D1C
+C/TeX Writer.app/texmf-base/./tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+
+(/private/var/containers/Bundle/Application/98F9D6C9-E9B8-4AB7-BB7F-55F45E61D1C
+C/TeX Writer.app/texmf-base/./tex/latex/base/size11.clo
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
@@ -24,6 +37,7 @@ File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
 
@@ -38,12 +52,34 @@ Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
 )
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+=======
+(/private/var/containers/Bundle/Application/98F9D6C9-E9B8-4AB7-BB7F-55F45E61D1C
+C/TeX Writer.app/texmf-base/./tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/generic/infwarerr/infwarerr.sty
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
@@ -67,23 +103,72 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+=======
+(/private/var/containers/Bundle/Application/98F9D6C9-E9B8-4AB7-BB7F-55F45E61D1C
+C/TeX Writer.app/texmf-base/./tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/kvoptions/kvoptions.sty
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
 \@linkdim=\dimen135
 \Hy@linkcounter=\count175
 \Hy@pagecounter=\count176
 
+<<<<<<< HEAD
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+=======
+(/private/var/containers/Bundle/Application/98F9D6C9-E9B8-4AB7-BB7F-55F45E61D1C
+C/TeX Writer.app/texmf-base/./tex/latex/hyperref/pd1enc.def
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
+=======
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 \Hy@SavedSpaceFactor=\count177
 Package hyperref Info: Hyper figures OFF on input line 4547.
 Package hyperref Info: Link nesting OFF on input line 4552.
@@ -94,17 +179,31 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4800.
 \c@Hy@tempcnt=\count178
 
+<<<<<<< HEAD
 (/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+=======
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/url/url.sty
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5159.
 \XeTeXLinkMargin=\dimen136
 
+<<<<<<< HEAD
 (/usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+=======
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/generic/bigintcalc/bigintcalc.sty
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -121,7 +220,12 @@ Package hyperref Info: PDF/A mode OFF on input line 6460.
 LaTeX Info: Redefining \ref on input line 6500.
 LaTeX Info: Redefining \pageref on input line 6504.
 
+<<<<<<< HEAD
 (/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+=======
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/generic/atbegshi/atbegshi.sty
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
 \Hy@abspage=\count180
@@ -130,30 +234,58 @@ Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
+<<<<<<< HEAD
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+=======
+(/private/var/containers/Bundle/Application/98F9D6C9-E9B8-4AB7-BB7F-55F45E61D1C
+C/TeX Writer.app/texmf-base/./tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/atveryend/atveryend.sty
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
 )
 \Fld@listcount=\count183
 \c@bookmark@seq@number=\count184
 
+<<<<<<< HEAD
 (/usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+=======
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/generic/uniquecounter/uniquecounter.sty
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
 \Hy@SectionHShift=\skip49
+<<<<<<< HEAD
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+=======
+)
+(/private/var/containers/Bundle/Application/98F9D6C9-E9B8-4AB7-BB7F-55F45E61D1C
+C/TeX Writer.app/texmf-base/./tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/generic/iftex/ifvtex.sty
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count185
@@ -169,10 +301,19 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen146
 \Gm@dimlist=\toks16
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2020/texmf-dist/tex/latex/listliketab/listliketab.sty
 Package: listliketab 2005/01/09 v1.0a Create list-like tabulars
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+=======
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/listliketab/listliketab.sty
+Package: listliketab 2005/01/09 v1.0a Create list-like tabulars
+
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/tools/calc.sty
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count188
 \calc@Bcount=\count189
@@ -185,7 +326,12 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count190
 \calc@Cskip=\skip52
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+=======
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/tools/array.sty
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen149
 \ar@mcellbox=\box45
@@ -204,7 +350,12 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \llt@arraystretch=\skip61
 \llt@list@box=\box47
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+=======
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/tools/longtable.sty
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTleft=\skip62
 \LTright=\skip63
@@ -222,21 +373,40 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \c@LT@chunks=\count195
 \LT@p@ftn=\toks18
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+=======
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/natbib/natbib.sty
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip66
 \bibsep=\skip67
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count196
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2020/texmf-dist/tex/latex/natbib/bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
 )
 (./Johnson CV_Current.bbl)
 (/usr/local/texlive/2020/texmf-dist/tex/latex/sectsty/sectsty.sty
+=======
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/natbib/bibentry.sty
+Package: bibentry 2007/10/30 1.5 (PWD)
+)
+(Johnson CV_Current.bbl)
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/sectsty/sectsty.sty
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 
@@ -248,7 +418,13 @@ LaTeX Warning: Command \underbar  has changed.
 LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
+<<<<<<< HEAD
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+=======
+)
+(/private/var/containers/Bundle/Application/98F9D6C9-E9B8-4AB7-BB7F-55F45E61D1C
+C/TeX Writer.app/texmf-base/./tex/latex/l3backend/l3backend-pdfmode.def
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count197
 \l__pdf_internal_box=\box52
@@ -257,9 +433,7 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 LaTeX Warning: Unused global option(s):
     [fullpage].
 
-(./Johnson CV_Current.aux)
-\openout1 = `"Johnson CV_Current.aux"'.
-
+(Johnson CV_Current.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
 LaTeX Font Info:    ... okay on input line 57.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
@@ -279,6 +453,7 @@ LaTeX Font Info:    ... okay on input line 57.
 \AtBeginShipoutBox=\box53
 Package hyperref Info: Link coloring OFF on input line 57.
 
+<<<<<<< HEAD
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -287,6 +462,18 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
 ty
+=======
+(/private/var/containers/Bundle/Application/98F9D6C9-E9B8-4AB7-BB7F-55F45E61D1C
+C/TeX Writer.app/texmf-base/./tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/var/mobile/Containers/Data/Application/E36EAF58-DC22-4591-9A6F-CF4B272D481A/L
+ibrary/Caches/texmf-dist/./tex/generic/gettitlestring/gettitlestring.sty
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count198
@@ -294,10 +481,13 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 57.
 LaTeX Info: Redefining \pageref on input line 57.
 LaTeX Info: Redefining \nameref on input line 57.
+<<<<<<< HEAD
  (./Johnson CV_Current.out) (./Johnson CV_Current.out)
-\@outlinefile=\write3
-\openout3 = `"Johnson CV_Current.out"'.
+=======
 
+(Johnson CV_Current.out) (Johnson CV_Current.out)
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
+\@outlinefile=\write3
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -346,9 +536,16 @@ Overfull \hbox (2.43332pt too wide) in paragraph at lines 65--78
 
 [1
 
+<<<<<<< HEAD
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2] [3] [4] [5]
 Overfull \vbox (91.5814pt too high) has occurred while \output is active []
+=======
+{/private/var/containers/Bundle/Application/98F9D6C9-E9B8-4AB7-BB7F-55F45E61D1C
+C/TeX Writer.app/texmf-base/./fonts/map/pdftex/updmap/pdftex.map}] [2]
+[3] [4]
+Overfull \vbox (47.78143pt too high) has occurred while \output is active []
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 
 
 [6]
@@ -361,6 +558,7 @@ Overfull \hbox (35.31496pt too wide) in paragraph at lines 300--313
 [] 
  []
 
+<<<<<<< HEAD
 [7] (./Johnson CV_Current.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 355.
  [8]
@@ -368,11 +566,21 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 355.
  (./Johnson CV_Current.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 355.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 355.
+=======
+[6] (Johnson CV_Current.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 348.
+ [7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 348.
+ (Johnson CV_Current.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 348.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 348.
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 Package rerunfilecheck Info: File `"Johnson CV_Current".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 355.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  5830 strings out of 480608
  91145 string characters out of 5903631
  375934 words of memory out of 5000000
@@ -390,5 +598,28 @@ PDF statistics:
  146 PDF objects out of 1000 (max. 8388607)
  129 compressed objects within 2 object streams
  68 named destinations out of 1000 (max. 500000)
+=======
+ 5810 strings out of 480618
+ 98642 string characters out of 5894377
+ 375256 words of memory out of 5000000
+ 21561 multiletter control sequences out of 15000+600000
+ 537285 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,8n,31p,676b,404s stack positions out of 5000i,500n,10000p,200000b,80000s
+</private/var/containers/Bundle/Application/98F9D6C9-E9B8-4AB7-BB7F-55F45E61D
+1CC/TeX Writer.app/texmf-base/./fonts/type1/public/amsfonts/cm/cmbx12.pfb></pri
+vate/var/containers/Bundle/Application/98F9D6C9-E9B8-4AB7-BB7F-55F45E61D1CC/TeX
+ Writer.app/texmf-base/./fonts/type1/public/amsfonts/cm/cmr10.pfb></private/var
+/containers/Bundle/Application/98F9D6C9-E9B8-4AB7-BB7F-55F45E61D1CC/TeX Writer.
+app/texmf-base/./fonts/type1/public/amsfonts/cm/cmr9.pfb></private/var/containe
+rs/Bundle/Application/98F9D6C9-E9B8-4AB7-BB7F-55F45E61D1CC/TeX Writer.app/texmf
+-base/./fonts/type1/public/amsfonts/cm/cmsl10.pfb></private/var/containers/Bund
+le/Application/98F9D6C9-E9B8-4AB7-BB7F-55F45E61D1CC/TeX Writer.app/texmf-base/.
+/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "Johnson CV_Current.pdf" (7 pages, 111476 bytes).
+PDF statistics:
+ 134 PDF objects out of 1000 (max. 8388607)
+ 63 named destinations out of 1000 (max. 500000)
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

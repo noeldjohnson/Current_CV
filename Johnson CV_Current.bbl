@@ -27,10 +27,13 @@ Compton, R., Johnson, N.~D., and Yamarik, S. (2010b).
 \newblock {\em BE Press: Peace Economics, Peace Science, and Public Policy},
   16(1).
 
+<<<<<<< HEAD
 \bibitem[Farolfi et~al., 2020]{TrustGamesUpdated}
 Farolfi, F., Krueger, F., Johnson, N.~D., and Mislin, A. (2020).
 \newblock {Trust Games: An Updated Meta-Anlaysis}.
 
+=======
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 \bibitem[Finley et~al., ming]{FinleyEtAl15}
 Finley, T., Franck, R., and Johnson, N.~D. (\textit{Forthcoming}).
 \newblock The long-run effects of land redistribution during the {F}rench
@@ -66,6 +69,7 @@ Jedwab, R., Johnson, N.~D., and Koyama, M. (2020b).
 Jedwab, R., Johnson, N.~D., and Koyama, M. (2020c).
 \newblock {P}andemics and {C}ities: {E}vidence from the {B}lack {D}eath.
 
+<<<<<<< HEAD
 \bibitem[Jedwab et~al., minga]{JohnsonKoyamaJedwab20}
 Jedwab, R., Johnson, N.~D., and Koyama, M. (\textit{Forthcoming}a).
 \newblock {Medieval Cities Through the Lens of Urban Economic Theories}.
@@ -74,7 +78,17 @@ Jedwab, R., Johnson, N.~D., and Koyama, M. (\textit{Forthcoming}a).
 \bibitem[Jedwab et~al., mingb]{JohnsonJedwabKoyama20b}
 Jedwab, R., Johnson, N.~D., and Koyama, M. (\textit{Forthcoming}b).
 \newblock {The Economic Impact of the Black Death}.
+=======
+\bibitem[Jedwab et~al., minga]{JohnsonJedwabKoyama20b}
+Jedwab, R., Johnson, N.~D., and Koyama, M. (\textit{Forthcoming}a).
+\newblock The economic impact of the black death.
+>>>>>>> 051643155162eb3ad4b8fabc4e1fd12c0a9b2a09
 \newblock {\em Journal of Economic Literature}.
+
+\bibitem[Jedwab et~al., mingb]{JohnsonKoyamaJedwab20}
+Jedwab, R., Johnson, N.~D., and Koyama, M. (\textit{Forthcoming}b).
+\newblock {Medieval Cities Through the Lens of Urban Economic Theories}.
+\newblock {\em Regional Science and Urban Economics}.
 
 \bibitem[Johnson, 2001]{Johnson01}
 Johnson, N.~D. (2001).
