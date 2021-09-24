@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  22 MAR 2021 14:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 SEP 2021 13:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -352,25 +352,25 @@ Overfull \vbox (91.5814pt too high) has occurred while \output is active []
 
 
 [6]
-Overfull \hbox (42.72136pt too wide) in paragraph at lines 282--298
+Overfull \hbox (42.72136pt too wide) in paragraph at lines 283--299
 [] 
  []
 
 
-Overfull \hbox (35.31496pt too wide) in paragraph at lines 301--314
+Overfull \hbox (35.31496pt too wide) in paragraph at lines 302--315
 [] 
  []
 
 [7] (./Johnson CV_Current.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 356.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 357.
  [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 356.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 357.
  (./Johnson CV_Current.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 356.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 356.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 357.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 357.
 Package rerunfilecheck Info: File `"Johnson CV_Current".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 356.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 357.
  ) 
 Here is how much of TeX's memory you used:
  5834 strings out of 480608
@@ -385,7 +385,7 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></us
 r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr
 /local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "Johnson CV_Current.pdf" (8 pages, 98309 bytes).
+Output written on "Johnson CV_Current.pdf" (8 pages, 98624 bytes).
 PDF statistics:
  141 PDF objects out of 1000 (max. 8388607)
  124 compressed objects within 2 object streams
