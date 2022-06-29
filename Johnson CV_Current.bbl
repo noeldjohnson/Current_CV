@@ -1,9 +1,5 @@
 \begin{thebibliography}{}
 
-\bibitem[Altaf et~al., 2021]{IndiaDisease}
-Altaf, M., Tabarrok, A., and Johnson, N.~D. (2021).
-\newblock {D}isease and {S}tate {C}apacity in {C}olonial {I}ndia.
-
 \bibitem[Anderson et~al., 2017]{AndersonEtAl2017}
 Anderson, R.~W., Johnson, N.~D., and Koyama, M. (2017).
 \newblock Jewish persecutions and weather shocks: 1100--1800.
@@ -27,15 +23,11 @@ Compton, R., Johnson, N.~D., and Yamarik, S. (2010b).
 \newblock {\em BE Press: Peace Economics, Peace Science, and Public Policy},
   16(1).
 
-\bibitem[Farolfi et~al., 2020]{TrustGamesUpdated}
-Farolfi, F., Krueger, F., Johnson, N.~D., and Mislin, A. (2020).
-\newblock {Trust Games: An Updated Meta-Anlaysis}.
-
-\bibitem[Finley et~al., ming]{FinleyEtAl15}
-Finley, T., Franck, R., and Johnson, N.~D. (\textit{Forthcoming}).
-\newblock The long-run effects of land redistribution during the {F}rench
-  {R}evolution.
-\newblock {\em The Journal of Law and Economics}.
+\bibitem[Finley et~al., 2021]{finley2021effects}
+Finley, T., Franck, R., and Johnson, N.~D. (2021).
+\newblock {The Effects of Land Redistribution: Evidence from the French
+  Revolution}.
+\newblock {\em The Journal of Law and Economics}, 64(2):233--267.
 
 \bibitem[Franck and Johnson, 2016]{FranckJohnson13}
 Franck, R. and Johnson, N.~D. (2016).
@@ -48,6 +40,11 @@ Franck, R., Johnson, N.~D., and Nye, J. V.~C. (2014).
 \newblock From internal taxes to national regulation: Evidence from a {French}
   wine tax reform at the turn of the twentieth century.
 \newblock {\em Explorations in Economic History}, 51:77--93.
+
+\bibitem[Hussain et~al., 2021]{IndiaDisease}
+Hussain, M.~A., Tabarrok, A., and Johnson, N.~D. (2021).
+\newblock {M}istrust and {Smallpox} {V}accine {Hesitancy} in {C}olonial
+  {I}ndia.
 
 \bibitem[Jedwab et~al., 2019]{jedwab2019negative}
 Jedwab, R., Johnson, N.~D., and Koyama, M. (2019).
@@ -62,19 +59,19 @@ Jedwab, R., Johnson, N.~D., and Koyama, M. (2020a).
 Jedwab, R., Johnson, N.~D., and Koyama, M. (2020b).
 \newblock The {B}lack {D}eath and {S}tate {F}ormation.
 
-\bibitem[Jedwab et~al., 2020c]{JedwabEtAl15}
+\bibitem[Jedwab et~al., 2020c]{jedwab2020medieval}
 Jedwab, R., Johnson, N.~D., and Koyama, M. (2020c).
+\newblock {Medieval Cities Through the Lens of Urban Economics}.
+\newblock {\em Regional Science and Urban Economics}, page 103598.
+
+\bibitem[Jedwab et~al., 2020d]{JedwabEtAl15}
+Jedwab, R., Johnson, N.~D., and Koyama, M. (2020d).
 \newblock {P}andemics and {C}ities: {E}vidence from the {B}lack {D}eath.
 
-\bibitem[Jedwab et~al., minga]{JohnsonKoyamaJedwab20}
-Jedwab, R., Johnson, N.~D., and Koyama, M. (\textit{Forthcoming}a).
-\newblock {Medieval Cities Through the Lens of Urban Economic Theories}.
-\newblock {\em Regional Science and Urban Economics}.
-
-\bibitem[Jedwab et~al., mingb]{JohnsonJedwabKoyama20b}
-Jedwab, R., Johnson, N.~D., and Koyama, M. (\textit{Forthcoming}b).
+\bibitem[Jedwab et~al., 2022]{jedwab2022economic}
+Jedwab, R., Johnson, N.~D., and Koyama, M. (2022).
 \newblock {The Economic Impact of the Black Death}.
-\newblock {\em Journal of Economic Literature}.
+\newblock {\em Journal of Economic Literature}, 60(1):132--78.
 
 \bibitem[Johnson, 2001]{Johnson01}
 Johnson, N.~D. (2001).
@@ -214,19 +211,14 @@ Johnson, N.~D. and Nye, J. V.~C. (2011).
 \newblock Does fortune favor dragons?
 \newblock {\em Journal of Economic Behavior and Organization}, 78(1-2).
 
-\bibitem[Johnson and Rapoport, 2020]{JohnsonRapoportWeiss2018}
-Johnson, N.~D. and Rapoport, H. (2020).
-\newblock {M}arkets \& {M}inorities: {J}ewish {P}ersecution and {M}arket
-  {A}ccess, 1100--1850.
-
 \bibitem[Johnson et~al., 2014]{JohnsonEtAl13}
 Johnson, N.~D., Ruger, W., Sorens, J., and Yamarik, S. (2014).
 \newblock Corruption, regulation, and growth: An empirical study of the
   {U}nited {S}tates.
 \newblock {\em Economics of Governance}, 15(1):51--69.
 
-\bibitem[Johnson and Thomas, 2021]{JohnsonThomas2021}
-Johnson, N.~D. and Thomas, A. (2021).
+\bibitem[Johnson et~al., 2021]{JohnsonThomas2021}
+Johnson, N.~D., Taylor, A., and Thomas, A. (2021).
 \newblock {Demographic Shocks and Technology Adoption: Evidence from the Black
   Death}.
 

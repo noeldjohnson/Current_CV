@@ -1,59 +1,57 @@
-This is BibTeX, Version 0.99d (TeX Live 2020)
+This is BibTeX, Version 0.99d (TeX Live 2021)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Johnson CV_Current.aux
 The style file: apalike.bst
 Database file #1: noelref.bib
-I was expecting a `,' or a `}'---line 15375 of file noelref.bib
+I was expecting a `,' or a `}'---line 15408 of file noelref.bib
  :  pages = 83
  :            --96,
 I'm skipping whatever remains of this entry
 Warning--empty note in IndiaDisease
-Warning--empty note in TrustGamesUpdated
 Warning--empty note in BlackDeathGuilds
 Warning--empty note in BlackDeathStates
 Warning--empty note in JedwabEtAl15
 Warning--empty note in JohnsonRoL13
-Warning--empty note in JohnsonRapoportWeiss2018
 Warning--empty note in JohnsonThomas2021
-You've used 42 entries,
+You've used 40 entries,
             1935 wiz_defined-function locations,
-            708 strings with 10297 characters,
-and the built_in function-call counts, 15249 in all, are:
-= -- 1466
-> -- 594
-< -- 26
-+ -- 207
-- -- 188
-* -- 1298
-:= -- 2736
-add.period$ -- 121
-call.type$ -- 42
-change.case$ -- 299
-chr.to.int$ -- 33
-cite$ -- 50
-duplicate$ -- 551
+            702 strings with 9972 characters,
+and the built_in function-call counts, 14980 in all, are:
+= -- 1452
+> -- 563
+< -- 25
++ -- 195
+- -- 178
+* -- 1276
+:= -- 2647
+add.period$ -- 117
+call.type$ -- 40
+change.case$ -- 284
+chr.to.int$ -- 31
+cite$ -- 46
+duplicate$ -- 549
 empty$ -- 1083
-format.name$ -- 258
-if$ -- 2939
+format.name$ -- 242
+if$ -- 2918
 int.to.chr$ -- 10
 int.to.str$ -- 0
 missing$ -- 35
-newline$ -- 205
-num.names$ -- 132
-pop$ -- 234
+newline$ -- 197
+num.names$ -- 126
+pop$ -- 222
 preamble$ -- 1
-purify$ -- 300
+purify$ -- 285
 quote$ -- 0
 skip$ -- 422
 stack$ -- 0
-substring$ -- 1107
-swap$ -- 34
-text.length$ -- 0
+substring$ -- 1140
+swap$ -- 47
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 250
-warning$ -- 8
-while$ -- 105
+type$ -- 238
+warning$ -- 6
+while$ -- 106
 width$ -- 0
-write$ -- 515
+write$ -- 498
 (There was 1 error message)
