@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.28)  30 SEP 2022 11:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.28)  30 SEP 2022 11:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -361,12 +361,12 @@ Overfull \hbox (2.43332pt too wide) in paragraph at lines 66--79
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2] [3] [4] [5]
-Overfull \hbox (45.76303pt too wide) in paragraph at lines 285--301
+Overfull \hbox (45.76303pt too wide) in paragraph at lines 284--300
 [] 
  []
 
 
-Overfull \hbox (35.31496pt too wide) in paragraph at lines 304--317
+Overfull \hbox (35.31496pt too wide) in paragraph at lines 303--316
 [] 
  []
 
@@ -387,7 +387,7 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></us
 r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr
 /local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "Johnson CV_Current.pdf" (7 pages, 97900 bytes).
+Output written on "Johnson CV_Current.pdf" (7 pages, 97888 bytes).
 PDF statistics:
  135 PDF objects out of 1000 (max. 8388607)
  119 compressed objects within 2 object streams
