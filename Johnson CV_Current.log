@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  29 OCT 2024 23:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  30 OCT 2024 00:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -361,12 +361,7 @@ Overfull \hbox (35.31496pt too wide) in paragraph at lines 304--317
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 353.
  [8]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 353.
- (./Johnson CV_Current.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+ (./Johnson CV_Current.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 353.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 353.
 Package rerunfilecheck Info: File `"Johnson CV_Current".out' has not changed.
@@ -374,10 +369,10 @@ Package rerunfilecheck Info: File `"Johnson CV_Current".out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 353.
  ) 
 Here is how much of TeX's memory you used:
- 5823 strings out of 480608
- 90896 string characters out of 5903631
- 375747 words of memory out of 5000000
- 21571 multiletter control sequences out of 15000+600000
+ 5822 strings out of 480608
+ 90878 string characters out of 5903631
+ 375743 words of memory out of 5000000
+ 21570 multiletter control sequences out of 15000+600000
  537285 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,8n,31p,733b,404s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -386,7 +381,7 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></us
 r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr
 /local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "Johnson CV_Current.pdf" (8 pages, 99055 bytes).
+Output written on "Johnson CV_Current.pdf" (8 pages, 98970 bytes).
 PDF statistics:
  144 PDF objects out of 1000 (max. 8388607)
  127 compressed objects within 2 object streams

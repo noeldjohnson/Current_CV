@@ -9,40 +9,40 @@ I was expecting a `,' or a `}'---line 15408 of file noelref.bib
 I'm skipping whatever remains of this entry
 Warning--empty note in IndiaDisease
 Warning--empty note in JohnsonRoL13
-Warning--empty note in BlackDeathGuilds
 Warning--empty note in JohnsonThomas2021
+Warning--empty note in BlackDeathGuilds
 You've used 39 entries,
             1935 wiz_defined-function locations,
-            703 strings with 9954 characters,
-and the built_in function-call counts, 14706 in all, are:
-= -- 1427
-> -- 545
-< -- 25
-+ -- 184
-- -- 172
-* -- 1247
-:= -- 2591
+            703 strings with 9973 characters,
+and the built_in function-call counts, 14660 in all, are:
+= -- 1425
+> -- 535
+< -- 27
++ -- 182
+- -- 168
+* -- 1239
+:= -- 2579
 add.period$ -- 116
 call.type$ -- 39
-change.case$ -- 276
+change.case$ -- 274
 chr.to.int$ -- 33
 cite$ -- 43
 duplicate$ -- 544
 empty$ -- 1075
 format.name$ -- 235
-if$ -- 2876
+if$ -- 2870
 int.to.chr$ -- 7
 int.to.str$ -- 0
 missing$ -- 36
 newline$ -- 194
 num.names$ -- 123
-pop$ -- 218
+pop$ -- 214
 preamble$ -- 1
-purify$ -- 277
+purify$ -- 275
 quote$ -- 0
-skip$ -- 417
+skip$ -- 419
 stack$ -- 0
-substring$ -- 1126
+substring$ -- 1128
 swap$ -- 48
 text.length$ -- 1
 text.prefix$ -- 0

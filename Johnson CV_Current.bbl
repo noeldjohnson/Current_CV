@@ -41,10 +41,10 @@ Franck, R., Johnson, N.~D., and Nye, J. V.~C. (2014).
   wine tax reform at the turn of the twentieth century.
 \newblock {\em Explorations in Economic History}, 51:77--93.
 
-\bibitem[Hussain et~al., 2022]{IndiaDisease}
-Hussain, M.~A., , and Johnson, N.~D. (2022).
-\newblock {M}istrust and {Smallpox} {V}accine {Hesitancy} in {C}olonial
-  {I}ndia.
+\bibitem[Hussain and Johnson, 2024]{IndiaDisease}
+Hussain, M.~A. and Johnson, N.~D. (2024).
+\newblock The {G}reat {R}evolt and its {L}egacy: {U}nderstanding {V}accine
+  {H}esitancy in {C}olonial {I}ndia.
 
 \bibitem[Jedwab et~al., 2019]{jedwab2019negative}
 Jedwab, R., Johnson, N.~D., and Koyama, M. (2019).
@@ -132,10 +132,10 @@ Johnson, N.~D. (2018).
 \newblock In Blum, M. and Colvin, C.~L., editors, {\em An Economist's Guide to
   Economic History}. Palgrave MacMillan.
 
-\bibitem[Johnson, 2021]{JohnsonRoL13}
-Johnson, N.~D. (2021).
-\newblock Taxes, national identity, and nation building: Evidence from
-  {F}rance.
+\bibitem[Johnson, 2024]{JohnsonRoL13}
+Johnson, N.~D. (2024).
+\newblock Taxes, {N}ational {I}dentity, and {N}ation {B}uilding: {E}vidence
+  from {F}rance.
 
 \bibitem[Johnson and Koyama, 2013]{Koyama12b}
 Johnson, N.~D. and Koyama, M. (2013).
@@ -184,10 +184,6 @@ Johnson, N.~D., Koyama, M., and Nye, J. V.~C. (2015).
 \newblock In Greif, A., Kiesling, L., and Nye, J. V.~C., editors, {\em
   Institutions, Innovation, and Industrialization}. Princeton University Press.
 
-\bibitem[Johnson et~al., 2022]{BlackDeathGuilds}
-Johnson, N.~D., Koyama, M., and Wilhelm, E. (2022).
-\newblock The {B}lack {D}eath and {G}uild {S}urvival.
-
 \bibitem[Johnson et~al., 2011]{JohnsonetAl11}
 Johnson, N.~D., Lafountain, C.~L., and Yamarik, S. ({2011}).
 \newblock Corruption is bad for growth (even in the {United States}).
@@ -218,5 +214,9 @@ Johnson, N.~D., Ruger, W., Sorens, J., and Yamarik, S. (2014).
 Johnson, N.~D., Taylor, A., and Thomas, A. (2024).
 \newblock {The Impact of the Black Death on the Adoption of the Printing
   Press}.
+
+\bibitem[Johnson and Wilhelm, 2024]{BlackDeathGuilds}
+Johnson, N.~D. and Wilhelm, E. (2024).
+\newblock The {B}lack {D}eath and {G}uild {S}urvival.
 
 \end{thebibliography}
