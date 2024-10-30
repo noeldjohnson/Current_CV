@@ -3,53 +3,54 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Johnson CV_Current.aux
 The style file: apalike.bst
 Database file #1: noelref.bib
-I was expecting a `,' or a `}'---line 15408 of file noelref.bib
+I was expecting a `,' or a `}'---line 15415 of file noelref.bib
  :  pages = 83
  :            --96,
 I'm skipping whatever remains of this entry
 Warning--empty note in IndiaDisease
 Warning--empty note in JohnsonRoL13
+Warning--empty note in JohnsonTaylorVarieties
 Warning--empty note in JohnsonThomas2021
 Warning--empty note in BlackDeathGuilds
-You've used 39 entries,
+You've used 40 entries,
             1935 wiz_defined-function locations,
-            703 strings with 9973 characters,
-and the built_in function-call counts, 14660 in all, are:
-= -- 1425
-> -- 535
-< -- 27
-+ -- 182
-- -- 168
-* -- 1239
-:= -- 2579
-add.period$ -- 116
-call.type$ -- 39
-change.case$ -- 274
-chr.to.int$ -- 33
-cite$ -- 43
-duplicate$ -- 544
-empty$ -- 1075
-format.name$ -- 235
-if$ -- 2870
+            707 strings with 10163 characters,
+and the built_in function-call counts, 14942 in all, are:
+= -- 1452
+> -- 548
+< -- 28
++ -- 188
+- -- 172
+* -- 1263
+:= -- 2634
+add.period$ -- 118
+call.type$ -- 40
+change.case$ -- 281
+chr.to.int$ -- 34
+cite$ -- 45
+duplicate$ -- 553
+empty$ -- 1089
+format.name$ -- 242
+if$ -- 2919
 int.to.chr$ -- 7
 int.to.str$ -- 0
 missing$ -- 36
-newline$ -- 194
-num.names$ -- 123
-pop$ -- 214
+newline$ -- 198
+num.names$ -- 126
+pop$ -- 218
 preamble$ -- 1
-purify$ -- 275
+purify$ -- 282
 quote$ -- 0
-skip$ -- 419
+skip$ -- 428
 stack$ -- 0
-substring$ -- 1128
+substring$ -- 1142
 swap$ -- 48
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 232
-warning$ -- 4
-while$ -- 104
+type$ -- 238
+warning$ -- 5
+while$ -- 106
 width$ -- 0
-write$ -- 490
+write$ -- 500
 (There was 1 error message)
