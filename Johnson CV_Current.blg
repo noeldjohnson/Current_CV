@@ -8,50 +8,49 @@ I was expecting a `,' or a `}'---line 15422 of file noelref.bib
  :            --96,
 I'm skipping whatever remains of this entry
 Warning--empty note in IndiaDisease
-Warning--empty note in JohnsonRoL13
-Warning--empty note in JohnsonTaylorPPP
 Warning--empty note in JohnsonTaylorVarieties
+Warning--empty note in JohnsonTaylorPPP
 Warning--empty note in JohnsonThomas2021
 Warning--empty note in BlackDeathGuilds
-You've used 41 entries,
+You've used 40 entries,
             1935 wiz_defined-function locations,
-            710 strings with 10316 characters,
-and the built_in function-call counts, 15220 in all, are:
-= -- 1479
-> -- 561
-< -- 29
-+ -- 193
-- -- 176
-* -- 1287
-:= -- 2689
-add.period$ -- 120
-call.type$ -- 41
-change.case$ -- 288
-chr.to.int$ -- 34
-cite$ -- 47
-duplicate$ -- 562
-empty$ -- 1103
-format.name$ -- 249
-if$ -- 2968
+            707 strings with 10198 characters,
+and the built_in function-call counts, 14979 in all, are:
+= -- 1456
+> -- 554
+< -- 28
++ -- 189
+- -- 174
+* -- 1269
+:= -- 2640
+add.period$ -- 118
+call.type$ -- 40
+change.case$ -- 282
+chr.to.int$ -- 33
+cite$ -- 45
+duplicate$ -- 553
+empty$ -- 1089
+format.name$ -- 246
+if$ -- 2927
 int.to.chr$ -- 8
 int.to.str$ -- 0
 missing$ -- 36
-newline$ -- 202
-num.names$ -- 129
-pop$ -- 222
+newline$ -- 198
+num.names$ -- 126
+pop$ -- 219
 preamble$ -- 1
-purify$ -- 289
+purify$ -- 283
 quote$ -- 0
-skip$ -- 436
+skip$ -- 427
 stack$ -- 0
-substring$ -- 1154
+substring$ -- 1140
 swap$ -- 48
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 244
-warning$ -- 6
-while$ -- 108
+type$ -- 238
+warning$ -- 5
+while$ -- 106
 width$ -- 0
-write$ -- 510
+write$ -- 500
 (There was 1 error message)
