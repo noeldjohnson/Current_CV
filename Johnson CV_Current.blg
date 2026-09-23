@@ -4,49 +4,50 @@ The top-level auxiliary file: Johnson CV_Current.aux
 The style file: apalike.bst
 Database file #1: noelref.bib
 Warning--empty note in IndiaDisease
+Warning--empty note in JohnsonGreatChain
 Warning--empty note in JohnsonTaylorVarieties
 Warning--empty note in JohnsonTaylorPPP
 Warning--empty note in JohnsonThomas2021
 Warning--empty note in GuildsCityGrowth
-You've used 40 entries,
+You've used 41 entries,
             1935 wiz_defined-function locations,
-            708 strings with 10182 characters,
-and the built_in function-call counts, 14975 in all, are:
-= -- 1456
-> -- 554
-< -- 28
-+ -- 187
-- -- 174
-* -- 1269
-:= -- 2640
-add.period$ -- 118
-call.type$ -- 40
-change.case$ -- 282
-chr.to.int$ -- 33
-cite$ -- 45
-duplicate$ -- 553
-empty$ -- 1089
-format.name$ -- 246
-if$ -- 2927
+            711 strings with 10332 characters,
+and the built_in function-call counts, 15212 in all, are:
+= -- 1479
+> -- 561
+< -- 29
++ -- 189
+- -- 176
+* -- 1287
+:= -- 2689
+add.period$ -- 120
+call.type$ -- 41
+change.case$ -- 288
+chr.to.int$ -- 34
+cite$ -- 47
+duplicate$ -- 562
+empty$ -- 1103
+format.name$ -- 249
+if$ -- 2968
 int.to.chr$ -- 8
 int.to.str$ -- 0
 missing$ -- 36
-newline$ -- 198
-num.names$ -- 126
-pop$ -- 219
+newline$ -- 202
+num.names$ -- 129
+pop$ -- 222
 preamble$ -- 1
-purify$ -- 283
+purify$ -- 289
 quote$ -- 0
-skip$ -- 427
+skip$ -- 436
 stack$ -- 0
-substring$ -- 1138
+substring$ -- 1150
 swap$ -- 48
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 238
-warning$ -- 5
-while$ -- 106
+type$ -- 244
+warning$ -- 6
+while$ -- 108
 width$ -- 0
-write$ -- 500
-(There were 5 warnings)
+write$ -- 510
+(There were 6 warnings)
