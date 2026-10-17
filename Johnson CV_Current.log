@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  23 SEP 2026 19:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  17 OCT 2026 16:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -377,7 +377,7 @@ Package rerunfilecheck Info: File `"Johnson CV_Current".out' has not changed.
 Here is how much of TeX's memory you used:
  9190 strings out of 473190
  144497 string characters out of 5715801
- 567015 words of memory out of 5000000
+ 567051 words of memory out of 5000000
  32297 multiletter control sequences out of 15000+600000
  563784 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -387,7 +387,7 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></us
 r/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr
 /local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "Johnson CV_Current.pdf" (8 pages, 102726 bytes).
+Output written on "Johnson CV_Current.pdf" (8 pages, 102616 bytes).
 PDF statistics:
  150 PDF objects out of 1000 (max. 8388607)
  128 compressed objects within 2 object streams
