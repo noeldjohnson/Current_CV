@@ -5,13 +5,13 @@ The style file: apalike.bst
 Database file #1: noelref.bib
 Warning--empty note in IndiaDisease
 Warning--empty note in JohnsonGreatChain
-Warning--empty note in JohnsonTaylorVarieties
 Warning--empty note in JohnsonTaylorPPP
+Warning--empty note in JohnsonTaylorVarieties
 Warning--empty note in JohnsonThomas2021
 Warning--empty note in GuildsCityGrowth
 You've used 41 entries,
             1935 wiz_defined-function locations,
-            711 strings with 10367 characters,
+            711 strings with 10387 characters,
 and the built_in function-call counts, 15212 in all, are:
 = -- 1479
 > -- 561
